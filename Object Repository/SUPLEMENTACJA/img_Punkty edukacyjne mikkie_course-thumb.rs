@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Punkty edukacyjne mikkie_course-thumb</name>
+   <tag></tag>
+   <elementGuidId>6d63c2b0-c424-4ef8-9304-029e7a502004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1612534487821_18']/div[2]/div/div/div/div[5]/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.aptekarska.pl/oferta/pluginfile.php/14090/course/overviewfiles/Obraz1.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Course Image Zasady prawidłowej suplementacji wybranych składników suplementów diety</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>course-thumb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1612534487821_18&quot;)/div[@class=&quot;course_category_tree clearfix&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;courses category-browse category-browse-6&quot;]/div[@class=&quot;courses-wrapper&quot;]/div[@class=&quot;theme-course-item&quot;]/div[@class=&quot;course-item-inner inner collapsed&quot;]/a[1]/div[@class=&quot;course-thumb-holder hasimage&quot;]/img[@class=&quot;course-thumb&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1612534487821_18']/div[2]/div/div/div/div[5]/div/a/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Course Image Zasady prawidłowej suplementacji wybranych składników suplementów diety']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>
